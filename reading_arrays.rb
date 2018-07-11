@@ -1,4 +1,4 @@
- student_names = [
+ $STUDENT_NAMES = [
   "Adele",
   "Beyoncé",
   "Cardi B",
@@ -8,25 +8,25 @@
 ]
 
 def first_student_by_index
-   student_names[0]
+   STUDENT_NAMES[0]
 end
 
 def fourth_student_by_index
-   student_names[3]
+   STUDENT_NAMES[3]
 end
 
 def last_student_by_index
-   student_names[5]
+   STUDENT_NAMES[5]
 end
 
 def first_student_by_method
-   student_names.first
+   STUDENT_NAMES.first
 end
 
 def last_student_by_method
-   student_names.last
+   STUDENT_NAMES.last
 end
 
 def first_second_and_third_students
-  student_names[0..2]
+  STUDENT_NAMES[0..2]
 end
