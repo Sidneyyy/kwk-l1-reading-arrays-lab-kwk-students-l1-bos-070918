@@ -1,4 +1,4 @@
- $STUDENT_NAMES = [
+ STUDENT_NAMES = [
   "Adele",
   "Beyoncé",
   "Cardi B",
