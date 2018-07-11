@@ -28,5 +28,5 @@ def last_student_by_method
 end
 
 def first_second_and_third_students
-  student_names[0..2]
+ puts student_names[0..2]
 end
